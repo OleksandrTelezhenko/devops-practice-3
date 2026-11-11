@@ -11,6 +11,7 @@
 | `web/Dockerfile.single` | Однопрохідний образ (`python:3.12`) |
 | `web/Dockerfile.multi` | Multi-stage: builder `python:3.12-slim` → фінальний `python:3.12-alpine` |
 | `screenshots/` | Скріншоти для звіту |
+| `Practice_03_Report.docx` | Повний звіт за шаблоном кафедри |
 
 ## Частина 1. Docker Compose
 
